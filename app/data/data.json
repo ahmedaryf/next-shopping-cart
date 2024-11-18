@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "iPhone 16",
+    "price": 550,
+    "category": "Phone",
+    "brand": "Apple",
+    "image_url": "/images/iphone-16.jpg"
+  },
+  {
+    "id": 2,
+    "name": "iPad",
+    "price": 750,
+    "category": "iPad",
+    "brand": "Apple",
+    "image_url": "/images/ipadPro.jpg"
+  },
+  {
+    "id": 3,
+    "name": "MacBook Pro",
+    "price": 1550,
+    "category": "Laptop",
+    "brand": "Apple",
+    "image_url": "/images/macbook.jpeg"
+  },
+  {
+    "id": 4,
+    "name": "Airpod Max",
+    "price": 250,
+    "category": "Headset",
+    "brand": "Apple",
+    "image_url": "/images/airpodMax.jpg"
+  },
+  {
+    "id": 5,
+    "name": "iwatch 9",
+    "price": 350,
+    "category": "watch",
+    "brand": "Apple",
+    "image_url": "/images/iwatch.webp"
+  }
+]
